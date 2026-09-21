@@ -1,5 +1,5 @@
 # Lab1Web
-PENJELASAN LANGKAH PRAKTIKUM MEMBUAT HALAMAN PROFIL MAHASISWA
+# PENJELASAN LANGKAH PRAKTIKUM MEMBUAT HALAMAN PROFIL MAHASISWA
 Index.html
 
 **praktikum1-ss1.png** – Membuat struktur dasar halaman HTML
@@ -15,8 +15,8 @@ Setelah kode HTML selesai dibuat, file index.html dijalankan menggunakan browser
 Pada langkah terakhir, halaman menampilkan bagian Keahlian dengan daftar HTML, CSS, dan JavaScript. Kemudian dibuat bagian Target Belajar menggunakan <ol> sehingga daftar ditampilkan secara berurutan, yaitu menguasai HTML, CSS, dan JavaScript.
 
 
-**PENJELASAN LANGKAH PRAKTIKUM DENGAN KONTEN BEBAS** (Profil Zhao Zhendong)
-**Halaman2.html**
+# PENJELASAN LANGKAH PRAKTIKUM DENGAN KONTEN BEBAS (Profil Zhao Zhendong)
+# Halaman2.html
 
 **praktikum1-ss5.png** — Membuat struktur dasar halaman profil Zhao Zhendong dengan menambahkan judul halaman, nama aktor, dan subjudul aktor Tiongkok favorit.
 
@@ -30,7 +30,7 @@ Pada langkah terakhir, halaman menampilkan bagian Keahlian dengan daftar HTML, C
 
 
 # Lab1Web
-## Praktikum 1: Pertanyaan HTML Dasar
+# Praktikum 1: Pertanyaan HTML Dasar
 
 1. Apa fungsi deklarasi `<!DOCTYPE html>` pada dokumen HTML?  
    Jawab: Menyatakan bahwa dokumen menggunakan standar HTML5.
