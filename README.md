@@ -1,6 +1,6 @@
 # Lab1Web
-**PENJELASAN LANGKAH PRAKTIKUM MEMBUAT HALAMAN PROFIL MAHASISWA**
-**Index.html** 
+PENJELASAN LANGKAH PRAKTIKUM MEMBUAT HALAMAN PROFIL MAHASISWA
+Index.html
 
 **praktikum1-ss1.png** – Membuat struktur dasar halaman HTML
 Pada langkah pertama, dibuat struktur dasar dokumen HTML menggunakan <!DOCTYPE html>, tag <html>, <head>, dan <body>. Pada bagian <head> ditambahkan pengaturan karakter UTF-8, viewport, serta judul halaman menggunakan tag <title>. Kemudian pada bagian <body> mulai dibuat navigasi dan judul halaman.
